@@ -9,7 +9,7 @@
     right: 4px;
   }
 }
-@media only tablets and (min-width: 900px) {
+@media only tablets and (max-width: 900px) {
   body {
     font-size: 85%;
   }
@@ -29,4 +29,4 @@
   column-count: 2;
   }
 }
-@media 
+@media (max-width: 750px)
